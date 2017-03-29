@@ -1,2 +1,2 @@
-# SnakeGame
-Ubuntu Port of Nokia Snake Game.
+This game works by printing frame content line by line and peridically updateing it. To change the fps, change the value of global verbal lag.Higher value means slower snake speed. A highscore.txt file will keep track of your score... 
+Use W A S D to control the snake.
